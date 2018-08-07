@@ -6,6 +6,6 @@ url: "https://ivanthescientist.com"
 github_username:  ivanthescientist
 
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
